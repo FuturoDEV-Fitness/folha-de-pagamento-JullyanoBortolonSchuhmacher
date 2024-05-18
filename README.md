@@ -3,7 +3,7 @@
 Clone o projeto
 
 ```bash
-  git clone https://github.com/FuturoDEV-Fitness/folha-de-pagamento-JullyanoBortolonSchuhmacher/edit/main/
+  git clone https://github.com/FuturoDEV-Fitness/folha-de-pagamento-JullyanoBortolonSchuhmacher/tree/main/
 ```
 
 Entre no diretório do projeto
