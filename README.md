@@ -9,7 +9,7 @@ Clone o projeto
 Entre no diretório do projeto
 
 ```bash
-  cd my-project
+  cd folha-de-pagamento-JullyanoBortolonSchuhmacher
 ```
 
 Instale as dependências
